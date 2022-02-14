@@ -1,0 +1,16 @@
+PODS:
+  - FmyLoveKit (0.1.0)
+
+DEPENDENCIES:
+  - FmyLoveKit (from `../`)
+
+EXTERNAL SOURCES:
+  FmyLoveKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FmyLoveKit: a1a12b63589f1715ce7c02410184512ef9abce40
+
+PODFILE CHECKSUM: ea4305f2a1bfcc28c3b6561e2e36ddad98eaa610
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+framework module FmyLoveKit {
+  umbrella header "FmyLoveKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
