@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FmyLoveKit_Example' do
+  pod 'FmyLoveKit', :path => '../'
+
+  target 'FmyLoveKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
